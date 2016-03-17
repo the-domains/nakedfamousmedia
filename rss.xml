@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NakedFamousMedia]]></title>
+        <description><![CDATA[NakedFamousMedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 11:07:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4afa8d9-f5aa-42ac-b45f-25ae10674260.jpg">]]></description>
+            <link>undefinedthe-world-is-naked-famous/index.html</link>
+            <guid isPermaLink="false">03ebc92c-13b0-4cc3-904a-3d78325dc68a</guid>
+            <pubDate>Thu, 17 Mar 2016 11:06:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
