@@ -1,0 +1,28 @@
+name: NakedFamousMedia
+favicon: null
+layout_spectrum: 0.4427224409300834
+typography_spectrum: 0.24088212195783854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10245855199173093
+  lightness: 0.194875547895208
+  saturation: 0.5342053365893662
+  rhythmicContrast: 0.5884983649011701
+purpose: []
